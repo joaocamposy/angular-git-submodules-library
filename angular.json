@@ -42,7 +42,8 @@
           }
         }
       }
-    }},
+    }
+  },
   "cli": {
     "analytics": false
   },
